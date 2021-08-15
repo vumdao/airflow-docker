@@ -277,7 +277,11 @@ airflow connections add 'airflow-slack' \
 ```
 
 - We can add connector in UI
-![slack](https://github.com/vumdao/airflow-docker/blob/master/slack-connection.png?raw=true)
+<p align="left">
+  <a href="https://dev.to/vumdao">
+    <img alt="Airflow Quick Start With docker-compose on AWS EC2" src="https://github.com/vumdao/airflow-docker/blob/master/slack-connection.png?raw=true" width="800" />
+  </a>
+</p>
 
 - We can add connection through env file eg. `.env` in docker-compose
 ```
